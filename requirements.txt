@@ -1,3 +1,4 @@
 setuptools
 pandas
 numpy
+apache-airflow-providers-postgres
