@@ -13,7 +13,7 @@ COPY credentials/application_default_credentials.json /home/astro/.config/gcloud
 ENV GOOGLE_APPLICATION_CREDENTIALS=/home/astro/.config/gcloud/application_default_credentials.json
 
 # AJOUTER LE PROJECT ID GCP
-ENV GOOGLE_CLOUD_PROJECT=mlops-project-491208
+ENV GOOGLE_CLOUD_PROJECT=mlops-project-49120*
 
 # Fixer les permissions
 USER root

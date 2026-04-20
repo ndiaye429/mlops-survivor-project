@@ -2,3 +2,6 @@ setuptools
 pandas
 numpy
 apache-airflow-providers-postgres
+setuptools
+psycopg2
+scikit-learn
