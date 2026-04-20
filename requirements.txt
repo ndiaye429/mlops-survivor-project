@@ -8,3 +8,4 @@ scikit-learn
 scikit-learn
 imbalanced-learn
 redis
+flask
